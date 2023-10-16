@@ -1,1 +1,1 @@
-<img min-width="1920px" max-width="1080px" width="720px" text-align="center" alt="kabe-project" src="https://raw.githubusercontent.com/Kabe-Project/.github/main/profile/Kabe-Project.png">
+<img align="center" alt="kabe-project" src="https://raw.githubusercontent.com/Kabe-Project/.github/main/profile/Kabe-Project.png">
